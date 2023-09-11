@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "63c62910f4cc81bd07d092a7"
+  },
+  "numEmpleado": 22156456,
+  "email": "22156456@izt.uam.mx",
+  "password": "vSezHDFqtiD"
+},{
+  "_id": {
+    "$oid": "63c628c9f4cc81bd07d092a6"
+  },
+  "numEmpleado": 21354532,
+  "email": "luisvaldovinosbarrera@gmail.com",
+  "password": "$2a$10$7cpheElRJzesZmiZSGJYOeKNaEqj.1oADzJTAylum.aivohHbReae"
+}]

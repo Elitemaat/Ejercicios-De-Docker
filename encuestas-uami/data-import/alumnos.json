@@ -1,0 +1,507 @@
+[{
+  "_id": {
+    "$oid": "63c77c4b9f2c8fd8efe17841"
+  },
+  "matricula": 2183041399,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183041399@izt.uam.mx",
+  "password": "$2a$10$46tRyoj.wZAcO.sr6P2yH.8Cfe18F4/PhQ7M0lAHpQlxhpa.J5jE6",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4a9f2c8fd8efe17835"
+  },
+  "matricula": 2183012662,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183012662@izt.uam.mx",
+  "password": "$2a$10$fbOcOJiGPzEJ.v5vPBgzaOp6JqFQia3bhtRA7UDZzjyQZArFV8Xqe",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4a9f2c8fd8efe17839"
+  },
+  "matricula": 2183012180,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183012180@izt.uam.mx",
+  "password": "123456",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4e9f2c8fd8efe17879"
+  },
+  "matricula": 2183030859,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183030859@izt.uam.mx",
+  "password": "TVrrqdyyzqV",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4d9f2c8fd8efe17875"
+  },
+  "matricula": 2183063225,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183063225@izt.uam.mx",
+  "password": "aMGlwbWODPi",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4c9f2c8fd8efe17851"
+  },
+  "matricula": 2183012278,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183012278@izt.uam.mx",
+  "password": "NDVmhAiTtSa",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c499f2c8fd8efe1782d"
+  },
+  "matricula": 2183011316,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "tonyvaldovinos98@gmail.com",
+  "password": "$2a$10$agSfKNhe1nXTWJv8jnWPAuAEX2g7.0LSTbt/5W8yJv4F4tN4hqGqe",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4c9f2c8fd8efe1785d"
+  },
+  "matricula": 2183086956,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183086956@izt.uam.mx",
+  "password": "UfqmIYpMgAy",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4e9f2c8fd8efe17889"
+  },
+  "matricula": 2183030047,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183030047@izt.uam.mx",
+  "password": "imZNcgNrXjm",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4d9f2c8fd8efe17869"
+  },
+  "matricula": 2183080699,
+  "carrera": {
+    "$oid": "63a36382c059ccec848dd3ca"
+  },
+  "email": "cbi2183080699@izt.uam.mx",
+  "password": "nUJnzEZAmlA",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4a9f2c8fd8efe17831"
+  },
+  "matricula": 2183011630,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183011630@izt.uam.mx",
+  "password": "OzQlJFezGJd",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4c9f2c8fd8efe17859"
+  },
+  "matricula": 2183029532,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183029532@izt.uam.mx",
+  "password": "dZIBgfiLOst",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4c9f2c8fd8efe17861"
+  },
+  "matricula": 2183072552,
+  "carrera": {
+    "$oid": "63a36382c059ccec848dd3ca"
+  },
+  "email": "cbi2183072552@izt.uam.mx",
+  "password": "czdfNcgnJZI",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4d9f2c8fd8efe17865"
+  },
+  "matricula": 2183077530,
+  "carrera": {
+    "$oid": "63a363efc059ccec848dd3cb"
+  },
+  "email": "cbi2183077530@izt.uam.mx",
+  "password": "vmEECyWYrnX",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4d9f2c8fd8efe17871"
+  },
+  "matricula": 2183010542,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183010542@izt.uam.mx",
+  "password": "lZFRtNEXIML",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4b9f2c8fd8efe17849"
+  },
+  "matricula": 2183060096,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183060096@izt.uam.mx",
+  "password": "agGSuZaDDJk",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4e9f2c8fd8efe1787d"
+  },
+  "matricula": 2183091222,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183091222@izt.uam.mx",
+  "password": "vaGHJrZqBQc",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4e9f2c8fd8efe17885"
+  },
+  "matricula": 2183077973,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183077973@izt.uam.mx",
+  "password": "bgaEjqUYhlj",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4f9f2c8fd8efe17899"
+  },
+  "matricula": 2183031558,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183031558@izt.uam.mx",
+  "password": "ZDsflbeNadh",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4d9f2c8fd8efe1786d"
+  },
+  "matricula": 2183083694,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183083694@izt.uam.mx",
+  "password": "tFQjoWTxhpu",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4e9f2c8fd8efe1788d"
+  },
+  "matricula": 2183016286,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183016286@izt.uam.mx",
+  "password": "wlZCUNnXBEu",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4c9f2c8fd8efe17855"
+  },
+  "matricula": 2183073128,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183073128@izt.uam.mx",
+  "password": "IUoAoQaQbSU",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4f9f2c8fd8efe17895"
+  },
+  "matricula": 2183080241,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183080241@izt.uam.mx",
+  "password": "bcvpXzlelxQ",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4f9f2c8fd8efe1789d"
+  },
+  "matricula": 2183054036,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183054036@izt.uam.mx",
+  "password": "DMMJVOKRMuQ",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4b9f2c8fd8efe1783d"
+  },
+  "matricula": 2183011152,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183011152@izt.uam.mx",
+  "password": "EEhaCooAYcW",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4b9f2c8fd8efe1784d"
+  },
+  "matricula": 2183029717,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183029717@izt.uam.mx",
+  "password": "EVdryAndvGI",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4e9f2c8fd8efe17891"
+  },
+  "matricula": 2183061108,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183061108@izt.uam.mx",
+  "password": "lxYmFdXtvNM",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4b9f2c8fd8efe17845"
+  },
+  "matricula": 2183043041,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183043041@izt.uam.mx",
+  "password": "EOOhkVpYoJU",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "63c77c4e9f2c8fd8efe17881"
+  },
+  "matricula": 2183020292,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183020292@izt.uam.mx",
+  "password": "BpkTbUcATuv",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "6418faf01a2283bb12a2cf76"
+  },
+  "matricula": 2173012064,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2173012064@izt.uam.mx",
+  "password": "$2a$10$htBQ2YyuAGtrRo1po3H8T.bYy3lEIoukBkDt5c7XB0yUQx4BRarl2",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "644b727344beff9ce0713445"
+  },
+  "matricula": 2673547523,
+  "carrera": {
+    "$oid": "63a36382c059ccec848dd3ca"
+  },
+  "email": "386478326@gg.com",
+  "password": "$2a$10$mSWYRbs/8bRh.mmwU42nQuzsH73crdzg6cWEM96k0t9ygV.ECnes6",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "644b753c44beff9ce0713451"
+  },
+  "matricula": 122323,
+  "carrera": {
+    "$oid": "63a363efc059ccec848dd3cb"
+  },
+  "email": "23213",
+  "password": "$2a$10$iBJkv265vb1tMOgr6jieAeXQHxoFv6ad/xLkjMImFqbJc9UfYf9US",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "644b766f44beff9ce0713465"
+  },
+  "matricula": 12232,
+  "carrera": {
+    "$oid": "63a363efc059ccec848dd3cb"
+  },
+  "email": "2321",
+  "password": "$2a$10$aribCw8PNPONX8hQv4mqCOWnGcJI4T66N2oWqJuYKGBeiY.hLBfvO",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "644b78dd44beff9ce071346c"
+  },
+  "matricula": 4444,
+  "carrera": {
+    "$oid": "63a363efc059ccec848dd3cb"
+  },
+  "email": "3123123&",
+  "password": "$2a$10$CgOq9at34AP5anlJPci5HuZhAMZYcUnomapzIEAXypoTl8xC0HCpK",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "644c0fe82fac6155f0f48dd9"
+  },
+  "matricula": 239392,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "test@test.com",
+  "password": "$2a$10$DuquCGWqZ7UqSYlIPr5MP.F7jIEqdRZtsn1Ax4wL0jNVgU2EJe8yu",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "644c19e22fac6155f0f48de2"
+  },
+  "matricula": 7678678768,
+  "carrera": {
+    "$oid": "63a36382c059ccec848dd3ca"
+  },
+  "email": "hsad@192.com",
+  "password": "$2a$10$gMh3XvqjyAbGuu/TmGrpTu20NwNc.d.UDwzCs969s2.ovRl4ReoEy",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "6454aa9b30867167d5fac8a6"
+  },
+  "matricula": 222093,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "prueba@prueba.com",
+  "password": "$2a$10$dUNk5zUZGoL0MxMIUBp/CeVt2acjW.3jrsBInHhaqBg5KNiWeXel.",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "6454ab2b30867167d5fac8b2"
+  },
+  "matricula": 2220931,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "prueba2@prueba.com",
+  "password": "$2a$10$WSAcEZOJcn2A7HeAE5RQhe930/nX0T3TrGunpyIlYmOBE0ZpjDlEG",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "6454abe230867167d5fac8ba"
+  },
+  "matricula": 22209312,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "prueba3@prueba.com",
+  "password": "$2a$10$x9xRDgaTRIObjvY8MBPeVe.FP/Lg6WMF3mNi4SruQcCLFebEUEVnS",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "6455358cdcae800bd859e586"
+  },
+  "matricula": 2183050279,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183050279@titlani.uam.mx",
+  "password": "$2a$10$YJRzp/PYDDsU0S15MCulBuFHJFuOonLKs7MVm1c2OA/haIMjxQZEO",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "645549c4dcae800bd859e5cc"
+  },
+  "matricula": 210374241,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi210374241@titlani.uam.mx",
+  "password": "$2a$10$nRvEsVGrouo3Wok7FvNvCuYm6uYJW6EX4B4Pn8tAIVdr2BCsPN0ma",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "64554cb6dcae800bd859e664"
+  },
+  "matricula": 2183050230,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "cbi2183050230@titlani.uam.mx",
+  "password": "$2a$10$cfCQdmknAGyNAxGgzurgluBmd7f4Q38KAXL.yOqvFEvqbLwMVPp7C",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "645ddb0ab8fd1043aeb2c72f"
+  },
+  "matricula": 696962,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "encuestasuami@outlook.com",
+  "password": "$2a$10$MdyasIN86hR5F.WBX.LMYOliUKqoKzMWkPpMYfycT5798LJGS9KKi",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "645fd7971b112af6359f2bc3"
+  },
+  "matricula": 20202123,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "0lgdesentis@gmail.com",
+  "password": "$2a$10$ShICkFJDtoS4xI0ftOZqY.476uovObBWnBe5K.tvTad2RQibOc1c2",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "646020872af088199e336062"
+  },
+  "matricula": 21002023,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "wichosandwicho@gmail.com",
+  "password": "$2a$10$6aCkUr0EOR/KFs7EYQo3Iu7nZSW5JJzwFVwBFesZoheVVTed8JIO2",
+  "EncuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "64683ed741c4c1f251f138ca"
+  },
+  "matricula": 21830502791905,
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "email": "lgdesentis@gmail.com",
+  "password": "$2a$10$Qtod2beQiLAZGzwUxlh66eeZa/jZP.a.3OIy9HNLQHitCiq7zQM02",
+  "EncuestasResueltas": []
+}]

@@ -1,0 +1,54 @@
+services:
+
+  wordpress:
+    image: wordpress
+    restart: always
+    ports:
+      - 9090:80
+    environment:
+      WORDPRESS_DB_HOST: db-host
+      WORDPRESS_DB_USER: elite
+      WORDPRESS_DB_PASSWORD: elite
+      WORDPRESS_DB_NAME: wp-db
+    networks:
+      - wp-network
+    profiles:
+      - desarrollo
+      - produccion
+
+### BBDD DESARROLLO ###
+  db-wp:
+    image: mysql
+    restart: always
+    container_name: desarrollo-db
+    environment:
+      MYSQL_DATABASE: wp-db
+      MYSQL_USER: elite
+      MYSQL_PASSWORD: elite
+      MYSQL_ROOT_PASSWORD: elite
+    networks:
+      wp-network:
+        aliases:
+          - db-host
+    profiles:
+      - desarrollo
+      
+### BBDD PRODUCCION ###
+  db-wp-prod:
+    image: mysql
+    restart: always
+    container_name: produccion-db
+    environment:
+      MYSQL_DATABASE: wp-db
+      MYSQL_USER: elite
+      MYSQL_PASSWORD: elite
+      MYSQL_ROOT_PASSWORD: elite
+    networks:
+      wp-network:
+        aliases:
+          - db-host
+    profiles:
+      - produccion
+
+networks:
+  wp-network:

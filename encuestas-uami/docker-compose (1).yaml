@@ -1,0 +1,36 @@
+version: "3"  
+services:
+  mongo:
+    image: mongo:latest
+    container_name: encuestas_db
+    restart: always
+    ports:
+      - "${MONGODB_LOCAL_PORT}:${MONGODB_DOCKER_PORT}"
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=${MONGODB_USER}
+      - MONGO_INITDB_ROOT_PASSWORD=${MONGODB_PASSWORD}
+    volumes:
+      - ./mongo/data/db:/data/db
+#     - ./data-import:/data-import
+#   command: mongorestore --host mongo --db encuestas-test --drop /data-import
+
+  back:
+    image: antonioluis/encuestas-uam-back:latest
+    container_name: encuestas_back
+    restart: always
+    ports:
+      - "4005:4000"
+    volumes:
+      - ./log:/var/log
+    depends_on:
+      - mongo
+
+  front:
+    image: antonioluis/encuestas-uam-front:latest
+    container_name: encuestas_front
+    restart: always
+    ports:
+      - "4004:3000"
+    depends_on:
+      - back
+

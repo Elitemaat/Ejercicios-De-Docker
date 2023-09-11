@@ -1,0 +1,685 @@
+[{
+  "_id": {
+    "$oid": "6442b65c443838b3d44c6d2e"
+  },
+  "alumno": {
+    "$oid": "63c77c499f2c8fd8efe1782d"
+  },
+  "encuesta": {
+    "$oid": "6442b56a443838b3d44c6ce1"
+  },
+  "cursosSeleccionados": [
+    {
+      "modalidad": "Mixta",
+      "turno": "Noche",
+      "_id": {
+        "$oid": "6442b65c443838b3d44c6d2f"
+      }
+    },
+    {
+      "modalidad": "Presencial",
+      "turno": "Mañana",
+      "_id": {
+        "$oid": "6442b65c443838b3d44c6d30"
+      }
+    },
+    {
+      "modalidad": "Virtual",
+      "turno": "Tarde",
+      "_id": {
+        "$oid": "6442b65c443838b3d44c6d31"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "644b4b4e4d76c3b06460d991"
+  },
+  "alumno": {
+    "$oid": "63c77c4a9f2c8fd8efe17835"
+  },
+  "encuesta": {
+    "$oid": "644b4af84d76c3b06460d962"
+  },
+  "cursosSeleccionados": [
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a67"
+      },
+      "modalidad": "Mixta",
+      "turno": "Mañana",
+      "profesor": {
+        "$oid": "6414ab0767a72f2b671437ef"
+      },
+      "_id": {
+        "$oid": "644b4b4e4d76c3b06460d992"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a69"
+      },
+      "modalidad": "Presencial",
+      "turno": "Mañana",
+      "profesor": {
+        "$oid": "6414aad367a72f2b671437ee"
+      },
+      "_id": {
+        "$oid": "644b4b4e4d76c3b06460d993"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a71"
+      },
+      "modalidad": "Mixta",
+      "turno": "Mañana",
+      "profesor": null,
+      "_id": {
+        "$oid": "644b4b4e4d76c3b06460d994"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a77"
+      },
+      "modalidad": "Presencial",
+      "turno": "Tarde",
+      "profesor": {
+        "$oid": "64114257da0a1c0482b10920"
+      },
+      "_id": {
+        "$oid": "644b4b4e4d76c3b06460d995"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "644b4c3c4d76c3b06460d9ca"
+  },
+  "alumno": {
+    "$oid": "63c77c499f2c8fd8efe1782d"
+  },
+  "encuesta": {
+    "$oid": "644b4af84d76c3b06460d962"
+  },
+  "cursosSeleccionados": [
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a67"
+      },
+      "modalidad": "Presencial",
+      "turno": "Tarde",
+      "profesor": {
+        "$oid": "6414ab0767a72f2b671437ef"
+      },
+      "_id": {
+        "$oid": "644b4c3c4d76c3b06460d9cb"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a69"
+      },
+      "modalidad": "Presencial",
+      "turno": "Tarde",
+      "profesor": {
+        "$oid": "6414aad367a72f2b671437ee"
+      },
+      "_id": {
+        "$oid": "644b4c3c4d76c3b06460d9cc"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a71"
+      },
+      "modalidad": "Virtual",
+      "turno": "Noche",
+      "profesor": null,
+      "_id": {
+        "$oid": "644b4c3c4d76c3b06460d9cd"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a77"
+      },
+      "modalidad": "Mixta",
+      "turno": "Mañana",
+      "profesor": {
+        "$oid": "64114257da0a1c0482b10920"
+      },
+      "_id": {
+        "$oid": "644b4c3c4d76c3b06460d9ce"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "644b5853c363ee6e5830923c"
+  },
+  "alumno": {
+    "$oid": "63c77c4a9f2c8fd8efe17831"
+  },
+  "encuesta": {
+    "$oid": "644b4af84d76c3b06460d962"
+  },
+  "cursosSeleccionados": [
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a67"
+      },
+      "modalidad": "Presencial",
+      "turno": "Tarde",
+      "profesor": {
+        "$oid": "64114257da0a1c0482b10920"
+      },
+      "_id": {
+        "$oid": "644b5853c363ee6e5830923d"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a69"
+      },
+      "modalidad": "Presencial",
+      "turno": "Tarde",
+      "profesor": {
+        "$oid": "6414aad367a72f2b671437ee"
+      },
+      "_id": {
+        "$oid": "644b5853c363ee6e5830923e"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a71"
+      },
+      "modalidad": "Virtual",
+      "turno": "Noche",
+      "profesor": null,
+      "_id": {
+        "$oid": "644b5853c363ee6e5830923f"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a77"
+      },
+      "modalidad": "Mixta",
+      "turno": "Mañana",
+      "profesor": {
+        "$oid": "6414ab0767a72f2b671437ef"
+      },
+      "_id": {
+        "$oid": "644b5853c363ee6e58309240"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "644c0f873017b69797a57b00"
+  },
+  "alumno": {
+    "$oid": "63c77c4b9f2c8fd8efe17841"
+  },
+  "encuesta": {
+    "$oid": "644b4af84d76c3b06460d962"
+  },
+  "cursosSeleccionados": [
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a69"
+      },
+      "modalidad": "Virtual",
+      "turno": "Noche",
+      "profesor": {
+        "$oid": "6414afaa67a72f2b671437f1"
+      },
+      "_id": {
+        "$oid": "644c0f873017b69797a57b02"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a71"
+      },
+      "modalidad": "Mixta",
+      "turno": "Mañana",
+      "profesor": null,
+      "_id": {
+        "$oid": "644c0f873017b69797a57b03"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a77"
+      },
+      "modalidad": "Virtual",
+      "turno": "Noche",
+      "profesor": {
+        "$oid": "6414ab0767a72f2b671437ef"
+      },
+      "_id": {
+        "$oid": "644c0f873017b69797a57b04"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64500e4ebd6123bc98382814"
+  },
+  "alumno": {
+    "$oid": "63c77c4d9f2c8fd8efe17869"
+  },
+  "encuesta": {
+    "$oid": "644b4af84d76c3b06460d962"
+  },
+  "cursosSeleccionados": [
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a67"
+      },
+      "modalidad": "Presencial",
+      "turno": "Tarde",
+      "profesor": {
+        "$oid": "6414ab0767a72f2b671437ef"
+      },
+      "_id": {
+        "$oid": "64500e4ebd6123bc98382815"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a6b"
+      },
+      "modalidad": "Mixta",
+      "turno": "Noche",
+      "profesor": null,
+      "_id": {
+        "$oid": "64500e4ebd6123bc98382816"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a358839a16cb1f8af03bc9"
+      },
+      "modalidad": "Mixta",
+      "turno": "Mañana",
+      "profesor": null,
+      "_id": {
+        "$oid": "64500e4ebd6123bc98382817"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587e9a16cb1f8af03add"
+      },
+      "modalidad": "Presencial",
+      "turno": "Mañana",
+      "profesor": null,
+      "_id": {
+        "$oid": "64500e4ebd6123bc98382818"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64500e7cbd6123bc98382832"
+  },
+  "alumno": {
+    "$oid": "63c77c4c9f2c8fd8efe17861"
+  },
+  "encuesta": {
+    "$oid": "644b4af84d76c3b06460d962"
+  },
+  "cursosSeleccionados": [
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a67"
+      },
+      "modalidad": "Presencial",
+      "turno": "Tarde",
+      "profesor": {
+        "$oid": "6414ab0767a72f2b671437ef"
+      },
+      "_id": {
+        "$oid": "64500e7cbd6123bc98382833"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a358839a16cb1f8af03bbf"
+      },
+      "modalidad": "Presencial",
+      "turno": "Tarde",
+      "profesor": null,
+      "_id": {
+        "$oid": "64500e7cbd6123bc98382834"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a358839a16cb1f8af03bc9"
+      },
+      "modalidad": "Mixta",
+      "turno": "Mañana",
+      "profesor": null,
+      "_id": {
+        "$oid": "64500e7cbd6123bc98382835"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587e9a16cb1f8af03add"
+      },
+      "modalidad": "Presencial",
+      "turno": "Mañana",
+      "profesor": null,
+      "_id": {
+        "$oid": "64500e7cbd6123bc98382836"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64500ec0bd6123bc98382865"
+  },
+  "alumno": {
+    "$oid": "63c77c4d9f2c8fd8efe17865"
+  },
+  "encuesta": {
+    "$oid": "644b4af84d76c3b06460d962"
+  },
+  "cursosSeleccionados": [
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a67"
+      },
+      "modalidad": "Presencial",
+      "turno": "Mañana",
+      "profesor": {
+        "$oid": "644633f62d2a1c82a6bfe023"
+      },
+      "_id": {
+        "$oid": "64500ec0bd6123bc98382866"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a69"
+      },
+      "modalidad": "Presencial",
+      "turno": "Noche",
+      "profesor": {
+        "$oid": "6414afaa67a72f2b671437f1"
+      },
+      "_id": {
+        "$oid": "64500ec0bd6123bc98382867"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a358879a16cb1f8af03c59"
+      },
+      "modalidad": "Mixta",
+      "turno": "Mañana",
+      "profesor": null,
+      "_id": {
+        "$oid": "64500ec0bd6123bc98382868"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a358879a16cb1f8af03c5b"
+      },
+      "modalidad": "Virtual",
+      "turno": "Mañana",
+      "profesor": null,
+      "_id": {
+        "$oid": "64500ec0bd6123bc98382869"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64554a41dcae800bd859e5e8"
+  },
+  "alumno": {
+    "$oid": "645549c4dcae800bd859e5cc"
+  },
+  "encuesta": {
+    "$oid": "644b4af84d76c3b06460d962"
+  },
+  "cursosSeleccionados": [
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a67"
+      },
+      "modalidad": "Virtual",
+      "turno": "Mañana",
+      "profesor": {
+        "$oid": "6414ab0767a72f2b671437ef"
+      },
+      "_id": {
+        "$oid": "64554a41dcae800bd859e5e9"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a69"
+      },
+      "modalidad": "Virtual",
+      "turno": "Tarde",
+      "profesor": {
+        "$oid": "6414aad367a72f2b671437ee"
+      },
+      "_id": {
+        "$oid": "64554a41dcae800bd859e5ea"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587c9a16cb1f8af03a93"
+      },
+      "modalidad": "Virtual",
+      "turno": "Tarde",
+      "profesor": null,
+      "_id": {
+        "$oid": "64554a41dcae800bd859e5eb"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587d9a16cb1f8af03abf"
+      },
+      "modalidad": "Virtual",
+      "turno": "Noche",
+      "profesor": null,
+      "_id": {
+        "$oid": "64554a41dcae800bd859e5ec"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64554d0cdcae800bd859e680"
+  },
+  "alumno": {
+    "$oid": "64554cb6dcae800bd859e664"
+  },
+  "encuesta": {
+    "$oid": "644b4af84d76c3b06460d962"
+  },
+  "cursosSeleccionados": [
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a67"
+      },
+      "modalidad": "Presencial",
+      "turno": "Mañana",
+      "profesor": {
+        "$oid": "6414ab0767a72f2b671437ef"
+      },
+      "_id": {
+        "$oid": "64554d0cdcae800bd859e681"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a69"
+      },
+      "modalidad": "Presencial",
+      "turno": "Tarde",
+      "profesor": {
+        "$oid": "6414aad367a72f2b671437ee"
+      },
+      "_id": {
+        "$oid": "64554d0cdcae800bd859e682"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a6d"
+      },
+      "modalidad": "Virtual",
+      "turno": "Noche",
+      "profesor": null,
+      "_id": {
+        "$oid": "64554d0cdcae800bd859e683"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a71"
+      },
+      "modalidad": "Presencial",
+      "turno": "Tarde",
+      "profesor": null,
+      "_id": {
+        "$oid": "64554d0cdcae800bd859e684"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6467bc74ebeeefc7390d3762"
+  },
+  "alumno": {
+    "$oid": "63c77c4b9f2c8fd8efe17841"
+  },
+  "encuesta": {
+    "$oid": "6467bc18ebeeefc7390d3734"
+  },
+  "cursosSeleccionados": [
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a67"
+      },
+      "modalidad": "Presencial",
+      "turno": "Tarde",
+      "profesor": {
+        "$oid": "64114257da0a1c0482b10920"
+      },
+      "_id": {
+        "$oid": "6467bc74ebeeefc7390d3763"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a6b"
+      },
+      "modalidad": "Mixta",
+      "turno": "Mañana",
+      "profesor": null,
+      "_id": {
+        "$oid": "6467bc74ebeeefc7390d3764"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a6d"
+      },
+      "modalidad": "Mixta",
+      "turno": "Mañana",
+      "profesor": null,
+      "_id": {
+        "$oid": "6467bc74ebeeefc7390d3765"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a77"
+      },
+      "modalidad": "Presencial",
+      "turno": "Noche",
+      "profesor": {
+        "$oid": "6414ab0767a72f2b671437ef"
+      },
+      "_id": {
+        "$oid": "6467bc74ebeeefc7390d3766"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64683aa841c4c1f251f13813"
+  },
+  "alumno": {
+    "$oid": "63c77c4a9f2c8fd8efe17835"
+  },
+  "encuesta": {
+    "$oid": "6467bc18ebeeefc7390d3734"
+  },
+  "cursosSeleccionados": [
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a67"
+      },
+      "modalidad": "Virtual",
+      "turno": "Tarde",
+      "profesor": {
+        "$oid": "6414aad367a72f2b671437ee"
+      },
+      "_id": {
+        "$oid": "64683aa841c4c1f251f13814"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a69"
+      },
+      "modalidad": "Mixta",
+      "turno": "Mañana",
+      "profesor": {
+        "$oid": "6414afaa67a72f2b671437f1"
+      },
+      "_id": {
+        "$oid": "64683aa841c4c1f251f13815"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587b9a16cb1f8af03a6b"
+      },
+      "modalidad": "Virtual",
+      "turno": "Tarde",
+      "profesor": null,
+      "_id": {
+        "$oid": "64683aa841c4c1f251f13816"
+      }
+    },
+    {
+      "curso": {
+        "$oid": "63a3587c9a16cb1f8af03a93"
+      },
+      "modalidad": "Presencial",
+      "turno": "Mañana",
+      "profesor": null,
+      "_id": {
+        "$oid": "64683aa841c4c1f251f13817"
+      }
+    }
+  ]
+}]

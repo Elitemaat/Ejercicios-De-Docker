@@ -1,0 +1,13 @@
+services:
+  contenedor1:
+   image: imagen-restart 
+   restart: unless-stopped
+  contenedor2:
+   image: imagen-restart 
+   restart: always
+  contenedor3:
+   image: imagen-restart 
+   restart: on-failure:2
+  contenedor4:
+   image: imagen-restart 
+   restart: "no"

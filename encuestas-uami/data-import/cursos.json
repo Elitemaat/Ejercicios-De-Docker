@@ -1,0 +1,2248 @@
+[{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a7d"
+  },
+  "nombre": "INTRODUCCION AL PENSAMIENTO MATEMATICO",
+  "clave": 2130030,
+  "tipo": "Obligatoria",
+  "profesores": [
+    {
+      "$oid": "64114257da0a1c0482b10920"
+    },
+    {
+      "$oid": "64114257da0a1c0482b10920"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a75"
+  },
+  "nombre": "TRANSFERENCIA DE CALOR",
+  "clave": 2122063,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03a95"
+  },
+  "nombre": "TEORIA DE GRUPOS",
+  "clave": 2131108,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03aa7"
+  },
+  "nombre": "TRANSFORMACIONES QUIMICAS",
+  "clave": 2140008,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ac9"
+  },
+  "nombre": "COMPUTACION Y SU ENTORNO EMPRESARIAL",
+  "clave": 2151109,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03aeb"
+  },
+  "nombre": "PROYECTO DE INVESTIGACION I CIENCIAS DE LA COMPUTACION",
+  "clave": 2151132,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03af5"
+  },
+  "nombre": "PROYECTO DE INVESTIGACION II INTELIGENCIA ARTIFICIAL",
+  "clave": 2151137,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03b03"
+  },
+  "nombre": "INFORMACION FINANCIERA",
+  "clave": 2211083,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b07"
+  },
+  "nombre": "CONTABILIDAD ADMINISTRATIVA",
+  "clave": 2211087,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b21"
+  },
+  "nombre": "DERECHO I",
+  "clave": 2212001,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bbd"
+  },
+  "nombre": "GENETICA",
+  "clave": 2352038,
+  "tipo": "Obligatoria",
+  "profesores": [
+    {
+      "$oid": "6414aad367a72f2b671437ee"
+    },
+    {
+      "$oid": "64114257da0a1c0482b10920"
+    },
+    {
+      "$oid": "6414afaa67a72f2b671437f1"
+    },
+    {
+      "$oid": "6414ab0767a72f2b671437ef"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bcd"
+  },
+  "nombre": "ESTADISTICA Y DISEÑO DE EXPERIMENTOS",
+  "clave": 2130041,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03beb"
+  },
+  "nombre": "ELECTROFISIOLOGIA CELULAR",
+  "clave": 2151028,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bed"
+  },
+  "nombre": "FISIOLOGIA CUANTITATIVA I",
+  "clave": 2151029,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c05"
+  },
+  "nombre": "INSTRUMENTACION DE USO QUIRURGICO Y TERAPEUTICO",
+  "clave": 2151044,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c2f"
+  },
+  "nombre": "TECNICAS DE INVESTIGACION HISTORICA",
+  "clave": 2255101,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c5f"
+  },
+  "nombre": "MECANICA CUANTICA II",
+  "clave": 2111052,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03ca3"
+  },
+  "nombre": "SISTEMAS Y SERVICIOS DE TELECOMUNICACIONES",
+  "clave": 2151140,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03caf"
+  },
+  "nombre": "HISTORIA DE MEXICO III: 1821-1876",
+  "clave": 2255120,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03a93"
+  },
+  "nombre": "MATEMATICAS DISCRETAS II",
+  "clave": 2131101,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03abf"
+  },
+  "nombre": "ALGORITMOS Y PATRONES DE ALMACENAMIENTO LINEALES ORIENTADOS A OBJETOS",
+  "clave": 2151104,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03acb"
+  },
+  "nombre": "COMPILADORES",
+  "clave": 2151110,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03add"
+  },
+  "nombre": "TECNICAS HEURISTICAS BIO-INSPIRADAS EN LA OPTIMIZACION",
+  "clave": 2151121,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03ae1"
+  },
+  "nombre": "TEMAS SELECTOS DE BASES DE DATOS",
+  "clave": 2151123,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03ae9"
+  },
+  "nombre": "PROYECTO DE INVESTIGACION II BASES DE DATOS",
+  "clave": 2151131,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03aed"
+  },
+  "nombre": "PROYECTO DE INVESTIGACION II CIENCIAS DE LA COMPUTACION",
+  "clave": 2151133,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03af7"
+  },
+  "nombre": "ADMINISTRACION GENERAL",
+  "clave": 2211075,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03afd"
+  },
+  "nombre": "ORGANIZACION DEL TRABAJO Y COMPORTAMIENTO HUMANO",
+  "clave": 2211079,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b15"
+  },
+  "nombre": "ADMINISTRACION FINANCIERA I",
+  "clave": 2211095,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b27"
+  },
+  "nombre": "METODOLOGIA DE ANALISIS DE PROBLEMAS EN LAS ORGANIZACIONES",
+  "clave": 2212008,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b31"
+  },
+  "nombre": "LIDERAZGO",
+  "clave": 2212013,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b3d"
+  },
+  "nombre": "AUDITORIA ADMINISTRATIVA",
+  "clave": 2212019,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b4f"
+  },
+  "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+  "clave": 2250035,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b55"
+  },
+  "nombre": "INGLES INTERMEDIO I",
+  "clave": 2255064,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bb5"
+  },
+  "nombre": "INGENIERIA DE ALIMENTOS I",
+  "clave": 2331082,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bf1"
+  },
+  "nombre": "INGENIERIA BIOMEDICA Y SECTOR SALUD",
+  "clave": 2151031,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bf9"
+  },
+  "nombre": "SEMINARIO DE PROYECTOS",
+  "clave": 2151036,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c3b"
+  },
+  "nombre": "HISTORIA DE MEXICO I: SIGLOS XVI Y XVII",
+  "clave": 2255112,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cbb"
+  },
+  "nombre": "MORFOLOGIA II",
+  "clave": 2255369,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03aa5"
+  },
+  "nombre": "ALGEBRA LINEAL APLICADA II",
+  "clave": 2132074,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03aad"
+  },
+  "nombre": "INTRODUCCION A LA COMPUTACION",
+  "clave": 2150005,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03ae5"
+  },
+  "nombre": "TEMAS SELECTOS DE CIENCIAS DE LA COMPUTACION",
+  "clave": 2151125,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03af1"
+  },
+  "nombre": "PROYECTO DE INVESTIGACION II INGENIERIA DE SOFTWARE",
+  "clave": 2151135,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03af3"
+  },
+  "nombre": "PROYECTO DE INVESTIGACION I INTELIGENCIA ARTIFICIAL",
+  "clave": 2151136,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b2b"
+  },
+  "nombre": "MODELOS DE DECISION EN LA GESTION DIRECTIVA",
+  "clave": 2212010,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b35"
+  },
+  "nombre": "ADMINISTRACION DEL CAMBIO ESTRATEGICO",
+  "clave": 2212015,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b87"
+  },
+  "nombre": "SOCIOLOGIA DEL TRABAJO",
+  "clave": 2293089,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b8b"
+  },
+  "nombre": "METODOS Y TECNICAS DE ACCION SOCIAL",
+  "clave": 2293097,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bf3"
+  },
+  "nombre": "ANALISIS DE SISTEMAS BIOMEDICOS DE MEDICION",
+  "clave": 2151032,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c03"
+  },
+  "nombre": "INSTRUMENTACION DE LABORATORIO CLINICO",
+  "clave": 2151043,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c09"
+  },
+  "nombre": "PROCESAMIENTO DE SE�ALES ESTOCASTICAS",
+  "clave": 2151046,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c43"
+  },
+  "nombre": "ANALISIS DEL DISCURSO",
+  "clave": 2255373,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c45"
+  },
+  "nombre": "INTRODUCCION A LA LINGUISTICA",
+  "clave": 2255414,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c47"
+  },
+  "nombre": "TEMAS Y PROBLEMAS AMBIENTALES",
+  "clave": 2293033,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cb7"
+  },
+  "nombre": "SINTAXIS I",
+  "clave": 2255361,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cbf"
+  },
+  "nombre": "FONETICA",
+  "clave": 2255415,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03ccd"
+  },
+  "nombre": "ECOLOGIA E IMPACTO AMBIENTAL",
+  "clave": 2341088,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a71"
+  },
+  "nombre": "FISICA COMPUTACIONAL",
+  "clave": 2111153,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ac3"
+  },
+  "nombre": "BASES DE DATOS",
+  "clave": 2151106,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ad3"
+  },
+  "nombre": "SISTEMAS OPERATIVOS",
+  "clave": 2151114,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b0b"
+  },
+  "nombre": "ETICA Y RESPONSABILIDAD SOCIAL",
+  "clave": 2211090,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b1f"
+  },
+  "nombre": "PROBLEMAS FILOSOFICOS Y CIVILIZACION OCCIDENTAL",
+  "clave": 2212000,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b69"
+  },
+  "nombre": "FILOSOFIA DE LA CIENCIA",
+  "clave": 2255317,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b6b"
+  },
+  "nombre": "LENGUAJE Y CULTURA",
+  "clave": 2255363,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c33"
+  },
+  "nombre": "GEOGRAFIA HISTORICA",
+  "clave": 2255103,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c3d"
+  },
+  "nombre": "HISTORIA DE MEXICO III: 1821-1876",
+  "clave": 2255138,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c7b"
+  },
+  "nombre": "LABORATORIO DE COMUNICACIONES",
+  "clave": 2151076,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cb9"
+  },
+  "nombre": "MORFOLOGIA I",
+  "clave": 2255366,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cc5"
+  },
+  "nombre": "SOCIOLOGIA DEL ESPACIO URBANO",
+  "clave": 2293093,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a67"
+  },
+  "nombre": "ELECTRICIDAD Y MAGNETISMO ELEMENTAL I PRUEBA",
+  "clave": 2110019,
+  "tipo": "Obligatoria",
+  "profesores": [
+    {
+      "$oid": "6414ab0767a72f2b671437ef"
+    },
+    {
+      "$oid": "64114257da0a1c0482b10920"
+    },
+    {
+      "$oid": "6414aad367a72f2b671437ee"
+    },
+    {
+      "$oid": "644633f62d2a1c82a6bfe023"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a6b"
+  },
+  "nombre": "FLUIDOS Y CALOR",
+  "clave": 2110021,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b3b"
+  },
+  "nombre": "SISTEMAS DE GESTION DE CALIDAD",
+  "clave": 2212018,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b47"
+  },
+  "nombre": "MESOAMERICA",
+  "clave": 2224042,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b57"
+  },
+  "nombre": "INGLES INTERMEDIO II",
+  "clave": 2255065,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b5f"
+  },
+  "nombre": "LITERATURA CLASICA",
+  "clave": 2255187,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b63"
+  },
+  "nombre": "INTRODUCCION A LA FILOSOFIA",
+  "clave": 2255302,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b81"
+  },
+  "nombre": "TEMAS SELECTOS DE GEOGRAFIA III",
+  "clave": 2293056,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b91"
+  },
+  "nombre": "SOCIOLOGIA RURAL",
+  "clave": 2294003,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03ba3"
+  },
+  "nombre": "BIOGEOGRAFIA",
+  "clave": 2312065,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03ba9"
+  },
+  "nombre": "ECOLOGIA EVOLUTIVA",
+  "clave": 2312089,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bcb"
+  },
+  "nombre": "DETECCION DE RADIACIONES",
+  "clave": 2122107,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03be1"
+  },
+  "nombre": "LOGICA Y DISEÑO DIGITAL",
+  "clave": 2151023,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c19"
+  },
+  "nombre": "PROGRAMAS HOSPITALARIOS",
+  "clave": 2151056,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c1d"
+  },
+  "nombre": "TEMAS SELECTOS DE INGENIERIA BIOMEDICA",
+  "clave": 2151059,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c25"
+  },
+  "nombre": "INTRODUCCION A LA PROGRAMACION",
+  "clave": 2151063,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c4d"
+  },
+  "nombre": "BIOLOGIA CELULAR DEL CANCER",
+  "clave": 2342017,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c51"
+  },
+  "nombre": "ESTRUCTURA DE PROTEINAS",
+  "clave": 2342031,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c55"
+  },
+  "nombre": "PROTEOMICA",
+  "clave": 2342043,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cc9"
+  },
+  "nombre": "SOCIOLOGIA DE LA EDUCACION",
+  "clave": 2294010,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a69"
+  },
+  "nombre": "MECANICA ELEMENTAL II",
+  "clave": 2110020,
+  "tipo": "Obligatoria",
+  "profesores": [
+    {
+      "$oid": "6414aad367a72f2b671437ee"
+    },
+    {
+      "$oid": "6414afaa67a72f2b671437f1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03a99"
+  },
+  "nombre": "TEORIA DE GRAFICAS",
+  "clave": 2131161,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03a9b"
+  },
+  "nombre": "TEORIA DE JUEGOS",
+  "clave": 2132015,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03af9"
+  },
+  "nombre": "HISTORIA GENERAL DE LA EMPRESA Y SOCIEDAD ORGANIZACIONAL",
+  "clave": 2211076,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b05"
+  },
+  "nombre": "COMPORTAMIENTO EN LAS ORGANIZACIONES",
+  "clave": 2211085,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b25"
+  },
+  "nombre": "VALUACION DE PROYECTOS",
+  "clave": 2212006,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b5d"
+  },
+  "nombre": "PRACTICAS DE LECTURA Y REDACCION",
+  "clave": 2255183,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bbf"
+  },
+  "nombre": "INTRODUCCION A LOS LASERES I",
+  "clave": 2111113,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03be5"
+  },
+  "nombre": "INTRODUCCION A LA FISIOLOGIA MEDICA",
+  "clave": 2151025,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03be9"
+  },
+  "nombre": "FISIOLOGIA DE LOS SISTEMAS NERVIOSO Y ENDOCRINO",
+  "clave": 2151027,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bf7"
+  },
+  "nombre": "MEDICIONES BIOMEDICAS DE PRESION, VOLUMEN Y FLUJO",
+  "clave": 2151034,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c0b"
+  },
+  "nombre": "IMAGENOLOGIA POR RESONANCIA MAGNETICA",
+  "clave": 2151047,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c0f"
+  },
+  "nombre": "FISIOPATOLOGIA",
+  "clave": 2151049,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c27"
+  },
+  "nombre": "CIRCUITOS ELECTRICOS",
+  "clave": 2151064,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c29"
+  },
+  "nombre": "ECONOMIA POLITICA I",
+  "clave": 2241089,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c93"
+  },
+  "nombre": "PROYECTO TERMINAL I EN ELECTRONICA DIGITAL",
+  "clave": 2151094,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03ca5"
+  },
+  "nombre": "TEORIA DE LA INFORMACION Y CODIGOS CORRECTORES",
+  "clave": 2151141,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a73"
+  },
+  "nombre": "MECANICA DE FLUIDOS",
+  "clave": 2122059,
+  "tipo": "Obligatoria",
+  "profesores": [
+    {
+      "$oid": "644633f62d2a1c82a6bfe023"
+    },
+    {
+      "$oid": "6414b27767a72f2b671437f2"
+    },
+    {
+      "$oid": "6414afaa67a72f2b671437f1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a81"
+  },
+  "nombre": "CALCULO DIFERENCIAL",
+  "clave": 2130038,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ab3"
+  },
+  "nombre": "INTERFACES PROGRAMABLES",
+  "clave": 2151040,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ab5"
+  },
+  "nombre": "VISUALIZACION POR COMPUTADORAS DE IMAGENES MEDICAS",
+  "clave": 2151052,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ab9"
+  },
+  "nombre": "FUNDAMENTOS DE LOGICA DIGITAL",
+  "clave": 2151074,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03abb"
+  },
+  "nombre": "SISTEMAS CON MICROPROCESADORES I",
+  "clave": 2151080,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03adf"
+  },
+  "nombre": "TEMAS SELECTOS DE INTELIGENCIA ARTIFICIAL",
+  "clave": 2151122,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b53"
+  },
+  "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+  "clave": 2250037,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b93"
+  },
+  "nombre": "SOCIOLOGIA POLITICA",
+  "clave": 2294004,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b97"
+  },
+  "nombre": "SOCIOLOGIA AMBIENTAL",
+  "clave": 2294008,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b9d"
+  },
+  "nombre": "EVOLUCION",
+  "clave": 2312061,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bb1"
+  },
+  "nombre": "TALLER DE BIOMETRIA AGROPECUARIA II",
+  "clave": 2321066,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bc7"
+  },
+  "nombre": "FUNDAMENTOS DE ENERGIA NUCLEAR",
+  "clave": 2122102,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bdf"
+  },
+  "nombre": "CIRCUITOS ELECTRONICOS II",
+  "clave": 2151022,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03c01"
+  },
+  "nombre": "IMAGENOLOGIA MEDICA",
+  "clave": 2151042,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c2d"
+  },
+  "nombre": "INTRODUCCION A LA ECONOMIA",
+  "clave": 2242036,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c75"
+  },
+  "nombre": "ELECTRONICA II",
+  "clave": 2151072,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c83"
+  },
+  "nombre": "ELECTRONICA DE COMUNICACIONES PARA ALTA FRECUENCIA",
+  "clave": 2151083,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c85"
+  },
+  "nombre": "ELECTRONICA DE POTENCIA",
+  "clave": 2151084,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cb3"
+  },
+  "nombre": "HISTORIA DE LA FILOSOFIA I (PRESOCRATICOS A PLATON)",
+  "clave": 2255304,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cc3"
+  },
+  "nombre": "SOCIOLOGIA DE LA CULTURA",
+  "clave": 2293085,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a6d"
+  },
+  "nombre": "LABORATORIO DE OPTICA",
+  "clave": 2111042,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a7f"
+  },
+  "nombre": "ALGEBRA LINEAL APLICADA I",
+  "clave": 2130035,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a89"
+  },
+  "nombre": "ECUACIONES DIFERENCIALES ORDINARIAS I",
+  "clave": 2131091,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03a8d"
+  },
+  "nombre": "METODOS NUMERICOS",
+  "clave": 2131093,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03a91"
+  },
+  "nombre": "MATEMATICAS DISCRETAS I",
+  "clave": 2131100,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ab7"
+  },
+  "nombre": "CIRCUITOS ELECTRICOS I",
+  "clave": 2151066,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ac5"
+  },
+  "nombre": "TEORIA MATEMATICA DE LA COMPUTACION",
+  "clave": 2151107,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03aef"
+  },
+  "nombre": "PROYECTO DE INVESTIGACION I INGENIERIA DE SOFTWARE",
+  "clave": 2151134,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b6f"
+  },
+  "nombre": "INTRODUCCION A LA SOCIOLOGIA",
+  "clave": 2293011,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b71"
+  },
+  "nombre": "FUNDAMENTOS DE GEOGRAFIA HISTORICA",
+  "clave": 2293034,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03ba1"
+  },
+  "nombre": "ECOLOGIA II",
+  "clave": 2312064,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03ba5"
+  },
+  "nombre": "COMPORTAMIENTO ANIMAL",
+  "clave": 2312083,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bef"
+  },
+  "nombre": "FISIOLOGIA CUANTITATIVA II",
+  "clave": 2151030,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bf5"
+  },
+  "nombre": "MEDICION DE FENOMENOS BIOELECTRICOS",
+  "clave": 2151033,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c23"
+  },
+  "nombre": "INTRODUCCION A LA PROGRAMACION ORIENTADA A OBJETOS",
+  "clave": 2151062,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c2b"
+  },
+  "nombre": "MICROECONOMIA I",
+  "clave": 2241091,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c49"
+  },
+  "nombre": "GENETICA",
+  "clave": 2341092,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c57"
+  },
+  "nombre": "TEMAS SELECTOS DE NEUROFISIOLOGIA",
+  "clave": 2342048,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c6f"
+  },
+  "nombre": "COMUNICACIONES I",
+  "clave": 2151069,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c79"
+  },
+  "nombre": "INTRODUCCION A LA PROGRAMACION PARA INGENIEROS",
+  "clave": 2151075,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c8d"
+  },
+  "nombre": "TEMAS SELECTOS DE SISTEMAS DIGITALES",
+  "clave": 2151091,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cc7"
+  },
+  "nombre": "SOCIOLOGIA LATINOAMERICANA",
+  "clave": 2294007,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3588a9a16cb1f8af03cd3"
+  },
+  "nombre": "LEGISLACION AMBIENTAL",
+  "clave": 2352017,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a87"
+  },
+  "nombre": "ESTADISTICA Y DISEÑO DE EXPERIMENTOS",
+  "clave": 2131041,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03a8b"
+  },
+  "nombre": "ECUACIONES DIFERENCIALES PARCIALES",
+  "clave": 2131092,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03aa1"
+  },
+  "nombre": "TEMAS SELECTOS DE MATEMATICAS APLICADAS I",
+  "clave": 2132040,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03ab1"
+  },
+  "nombre": "METODOS COMPUTACIONALES EN INGENIERIA BIOMEDICA",
+  "clave": 2151035,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03acd"
+  },
+  "nombre": "PROGRAMACION CONCURRENTE",
+  "clave": 2151111,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03acf"
+  },
+  "nombre": "INGENIERIA DE SOFTWARE",
+  "clave": 2151112,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b37"
+  },
+  "nombre": "GESTION DEL CONOCIMIENTO",
+  "clave": 2212016,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b79"
+  },
+  "nombre": "PENSAMIENTO AMBIENTALISTA",
+  "clave": 2293044,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bbb"
+  },
+  "nombre": "BIOQUIMICA DE LA NUTRICION",
+  "clave": 2331093,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bc5"
+  },
+  "nombre": "TERMODINAMICA II (ING.)",
+  "clave": 2122061,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bd1"
+  },
+  "nombre": "BIOESTADISTICA I",
+  "clave": 2131103,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bd5"
+  },
+  "nombre": "INTRODUCCION A LA INGENERIA BIOMEDICA",
+  "clave": 2151015,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bd9"
+  },
+  "nombre": "SEÑALES Y SISTEMAS II",
+  "clave": 2151019,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c0d"
+  },
+  "nombre": "CIRCUITOS ELECTRONICOS DE INTERFACE",
+  "clave": 2151048,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c1f"
+  },
+  "nombre": "INTRODUCCION A LA ECONOMIA DE LA SALUD",
+  "clave": 2151060,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c31"
+  },
+  "nombre": "INTRODUCCION A TEXTOS HISTORICOS",
+  "clave": 2255102,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c4f"
+  },
+  "nombre": "CANCER:MORFOLOGIA Y MICROAMBIENTE",
+  "clave": 2342019,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c59"
+  },
+  "nombre": "MECANICA I",
+  "clave": 2111043,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c73"
+  },
+  "nombre": "ELECTRONICA I",
+  "clave": 2151071,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c89"
+  },
+  "nombre": "PROCESAMIENTO DIGITAL DE SE�ALES",
+  "clave": 2151087,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3588a9a16cb1f8af03cd5"
+  },
+  "nombre": "DESARROLLO SOSTENIBLE",
+  "clave": 2352018,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03b01"
+  },
+  "nombre": "SOCIEDAD DE CONSUMO, DESARROLLO TECNOLOGICO Y COMUNICACION",
+  "clave": 2211082,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b59"
+  },
+  "nombre": "INGLES INTERMEDIO III",
+  "clave": 2255066,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b7f"
+  },
+  "nombre": "ORDENAMIENTO TERRITORIAL",
+  "clave": 2293055,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b9f"
+  },
+  "nombre": "ECOLOGIA I",
+  "clave": 2312063,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bad"
+  },
+  "nombre": "INTRODUCCION A LOS SISTEMAS DE INFORMACION GEOGRAFICA",
+  "clave": 2321059,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bc9"
+  },
+  "nombre": "INGENIERIA DE COSTOS",
+  "clave": 2122105,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bcf"
+  },
+  "nombre": "PROBABILIDAD Y ESTADISTICA",
+  "clave": 2131042,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c81"
+  },
+  "nombre": "COMUNICACIONES DIGITALES",
+  "clave": 2151082,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c8b"
+  },
+  "nombre": "SISTEMAS DIGITALES DE PROPOSITO ESPECIFICO",
+  "clave": 2151088,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c9f"
+  },
+  "nombre": "TEMAS SELECTOS DE INGENIERIA ELECTRONICA",
+  "clave": 2151100,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cab"
+  },
+  "nombre": "MICROECONOMIA II",
+  "clave": 2241094,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03a97"
+  },
+  "nombre": "CRIPTOGRAFIA DE CLAVE PUBLICA",
+  "clave": 2131131,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03aab"
+  },
+  "nombre": "INTRODUCCION A LA INGENIERIA ELECTRONICA",
+  "clave": 2150004,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03abd"
+  },
+  "nombre": "FUNDAMENTOS DE PROGRAMACION",
+  "clave": 2151103,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b43"
+  },
+  "nombre": "TENDENCIAS MUNDIALES DEL MARKETING",
+  "clave": 2212039,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b4b"
+  },
+  "nombre": "INTRODUCCION A LA MICROECONOMIA I",
+  "clave": 2241088,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b65"
+  },
+  "nombre": "ETICA I",
+  "clave": 2255303,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b6d"
+  },
+  "nombre": "VARIABLES MACROECONOMICAS DE MEXICO",
+  "clave": 2291099,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bab"
+  },
+  "nombre": "ECOLOGIA URBANA",
+  "clave": 2312090,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bdb"
+  },
+  "nombre": "FILTRADO ANALOGICO Y DIGITAL",
+  "clave": 2151020,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03be7"
+  },
+  "nombre": "FISIOLOGIA DE SISTEMAS HOMEOSTATICOS",
+  "clave": 2151026,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c21"
+  },
+  "nombre": "PRACTICAS PROFESIONALES",
+  "clave": 2151061,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c3f"
+  },
+  "nombre": "NARRATIVA MEXICANA. SIGLOS XX-XXI",
+  "clave": 2255207,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c4b"
+  },
+  "nombre": "BIOINFORMATICA BASICA",
+  "clave": 2342014,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c7d"
+  },
+  "nombre": "REDES DE COMPUTADORAS",
+  "clave": 2151079,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c95"
+  },
+  "nombre": "PROYECTO TERMINAL II EN ELECTRONICA DIGITAL",
+  "clave": 2151095,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03ca1"
+  },
+  "nombre": "ALGORITMOS Y ESTRUCTURAS DE DATOS",
+  "clave": 2151139,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cbd"
+  },
+  "nombre": "INTRODUCCION AL LENGUAJE",
+  "clave": 2255413,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3588a9a16cb1f8af03cd7"
+  },
+  "nombre": "IMPACTO AMBIENTAL",
+  "clave": 2352031,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03aa3"
+  },
+  "nombre": "CALCULO DE VARIAS VARIABLES II",
+  "clave": 2132069,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03aa9"
+  },
+  "nombre": "ESTRUCTURA DE LA MATERIA",
+  "clave": 2140009,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ac7"
+  },
+  "nombre": "ANALISIS Y DISE�O DE SISTEMAS DE COMPUTACION",
+  "clave": 2151108,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ad1"
+  },
+  "nombre": "INTELIGENCIA ARTIFICIAL",
+  "clave": 2151113,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ad9"
+  },
+  "nombre": "APRENDIZAJE MAQUINAL",
+  "clave": 2151118,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03aff"
+  },
+  "nombre": "TEORIA DE LA ORGANIZACION",
+  "clave": 2211081,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b19"
+  },
+  "nombre": "GESTION Y CONTROL ESTRATEGICOS II",
+  "clave": 2211097,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b1d"
+  },
+  "nombre": "ADMINISTRACION FINANCIERA II",
+  "clave": 2211099,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b33"
+  },
+  "nombre": "HABILIDADES DIRECTIVAS",
+  "clave": 2212014,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b67"
+  },
+  "nombre": "ETICA II",
+  "clave": 2255305,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b77"
+  },
+  "nombre": "TEORIAS DEL DESARROLLO LOCAL",
+  "clave": 2293042,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b7b"
+  },
+  "nombre": "MAPA AMBIENTAL DE MEXICO",
+  "clave": 2293046,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b85"
+  },
+  "nombre": "ANTROPOLOGIA URBANA",
+  "clave": 2293058,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b9b"
+  },
+  "nombre": "CLIMATOLOGIA",
+  "clave": 2312057,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03ba7"
+  },
+  "nombre": "BIOCONSERVACION",
+  "clave": 2312087,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bb3"
+  },
+  "nombre": "GESTION Y CONTROL DE CALIDAD",
+  "clave": 2331078,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bc3"
+  },
+  "nombre": "TERMODINAMICA I (ING.)",
+  "clave": 2122058,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bdd"
+  },
+  "nombre": "CIRCUITOS ELECTRONICOS I",
+  "clave": 2151021,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03be3"
+  },
+  "nombre": "SECUENCIADORES Y MICROPROCESADORES",
+  "clave": 2151024,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bfd"
+  },
+  "nombre": "PROYECTO DE INGENIERIA BIOMEDICA II",
+  "clave": 2151038,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c07"
+  },
+  "nombre": "PROCESAMIENTO DIGITAL DE IMAGENES",
+  "clave": 2151045,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c35"
+  },
+  "nombre": "HISTORIA ANTIGUA MUNDIAL",
+  "clave": 2255104,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c5d"
+  },
+  "nombre": "MECANICA II",
+  "clave": 2111047,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c63"
+  },
+  "nombre": "ELECTROMAGNETISMO II",
+  "clave": 2111101,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c77"
+  },
+  "nombre": "ELECTRONICA III",
+  "clave": 2151073,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c97"
+  },
+  "nombre": "PROYECTO TERMINAL I EN COMPUTACION",
+  "clave": 2151096,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cb5"
+  },
+  "nombre": "HISTORIA DE LA FILOSOFIA II (ARISTOTELES Y FILOSOFIA HELENISTICA)",
+  "clave": 2255307,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cc1"
+  },
+  "nombre": "MORFOSINTAXIS",
+  "clave": 2255416,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03ccb"
+  },
+  "nombre": "AGROECOLOGIA Y SUSTENTABILIDAD",
+  "clave": 2321067,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a7b"
+  },
+  "nombre": "METODOS MATEMATICOS EN LA INGENIERIA DE PROCESOS",
+  "clave": 2124062,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03aaf"
+  },
+  "nombre": "REDES DE TELECOMUNICACIONES",
+  "clave": 2151014,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ad5"
+  },
+  "nombre": "ARQUITECTURA DE COMPUTADORAS",
+  "clave": 2151115,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03adb"
+  },
+  "nombre": "LENGUAJES DE PROGRAMACION",
+  "clave": 2151119,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03ae3"
+  },
+  "nombre": "TEMAS SELECTOS DE INGENIERIA DE SOFTWARE",
+  "clave": 2151124,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b23"
+  },
+  "nombre": "DERECHO II",
+  "clave": 2212002,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b51"
+  },
+  "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+  "clave": 2250036,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b73"
+  },
+  "nombre": "GEOGRAFIA DE MEXICO",
+  "clave": 2293037,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b7d"
+  },
+  "nombre": "SOCIOLOGIA URBANA",
+  "clave": 2293054,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b95"
+  },
+  "nombre": "SOCIOLOGIA DE LA GLOBALIZACION",
+  "clave": 2294006,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c69"
+  },
+  "nombre": "MECANICA CUANTICA I",
+  "clave": 2111152,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c6b"
+  },
+  "nombre": "CIRCUITOS ELECTRICOS II",
+  "clave": 2151067,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c87"
+  },
+  "nombre": "MEDIOS DE TRANSMISION EN ALTA FRECUENCIA",
+  "clave": 2151085,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c99"
+  },
+  "nombre": "PROYECTO TERMINAL II EN COMPUTACION",
+  "clave": 2151097,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cad"
+  },
+  "nombre": "MACROECONOMIA II",
+  "clave": 2241098,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cb1"
+  },
+  "nombre": "HISTORIA DE LA LENGUA",
+  "clave": 2255186,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a79"
+  },
+  "nombre": "METODOS NUMERICOS APLICADOS A LA INGENIERIA",
+  "clave": 2122087,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03a8f"
+  },
+  "nombre": "PROBABILIDAD APLICADA",
+  "clave": 2131094,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03a9d"
+  },
+  "nombre": "ANALISIS COMBINATORIO",
+  "clave": 2132028,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ac1"
+  },
+  "nombre": "ALGORITMOS Y PATRONES DE ALMACENAMIENTO NO LINEALES ORIENTADOS A OBJETOS",
+  "clave": 2151105,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03afb"
+  },
+  "nombre": "TEORIA ADMINISTRATIVA",
+  "clave": 2211078,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b17"
+  },
+  "nombre": "MARKETING II",
+  "clave": 2211096,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b2f"
+  },
+  "nombre": "PROCESOS DE TOMA DE DECISIONES. ANALISIS DE CASOS",
+  "clave": 2212012,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b41"
+  },
+  "nombre": "SISTEMA DE INFORMACION INTERNACIONAL",
+  "clave": 2212038,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b61"
+  },
+  "nombre": "LITERATURA HISPANOAMERICANA. SIGLOS XVI-XVIII",
+  "clave": 2255195,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b8f"
+  },
+  "nombre": "SOCIOLOGIA DE LA POBLACION",
+  "clave": 2294002,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b99"
+  },
+  "nombre": "SOCIOLOGIA DE GENERO",
+  "clave": 2294009,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bc1"
+  },
+  "nombre": "BALANCES DE MATERIA Y ENERGIA I",
+  "clave": 2122057,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bd3"
+  },
+  "nombre": "BIOESTADISTICA II",
+  "clave": 2131104,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bd7"
+  },
+  "nombre": "SEÑALES Y SISTEMAS I",
+  "clave": 2151018,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bfb"
+  },
+  "nombre": "PROYECTO DE INGENIERIA BIOMEDICA I",
+  "clave": 2151037,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358849a16cb1f8af03bff"
+  },
+  "nombre": "ANALISIS DE LA CALIDAD EN INGENIERIA BIOMEDICA",
+  "clave": 2151041,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c1b"
+  },
+  "nombre": "PRACTICAS HOSPITALARIAS II",
+  "clave": 2151058,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c39"
+  },
+  "nombre": "HISTORIA DE MESOAMERICA",
+  "clave": 2255108,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c61"
+  },
+  "nombre": "ELECTROMAGNETISMO I",
+  "clave": 2111100,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03ca7"
+  },
+  "nombre": "INTRODUCCION A LA ANTROPOLOGIA",
+  "clave": 2224040,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a77"
+  },
+  "nombre": "FUNDAMENTOS Y MODELOS DE OPTIMIZACION",
+  "clave": 2122086,
+  "tipo": "Obligatoria",
+  "profesores": [
+    {
+      "$oid": "64114257da0a1c0482b10920"
+    },
+    {
+      "$oid": "6414ab0767a72f2b671437ef"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a85"
+  },
+  "nombre": "CALCULO DE VARIAS VARIABLES I",
+  "clave": 2130040,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587d9a16cb1f8af03ad7"
+  },
+  "nombre": "ANALISIS Y DISE�O DE ALGORITMOS",
+  "clave": 2151116,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b0d"
+  },
+  "nombre": "FUNDAMENTOS DE POLITICA ECONOMICA",
+  "clave": 2211091,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b0f"
+  },
+  "nombre": "ANALISIS DE DECISIONES",
+  "clave": 2211092,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b13"
+  },
+  "nombre": "GESTION Y CONTROL ESTRATEGICOS I",
+  "clave": 2211094,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b1b"
+  },
+  "nombre": "ADMINISTRACION DE OPERACIONES",
+  "clave": 2211098,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b2d"
+  },
+  "nombre": "INFORMATICA APLICADA PARA LA TOMA DE DECISIONES",
+  "clave": 2212011,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b3f"
+  },
+  "nombre": "E-MARKETING",
+  "clave": 2212036,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b45"
+  },
+  "nombre": "CULTURA",
+  "clave": 2224041,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b49"
+  },
+  "nombre": "ANTROPOLOGIA SIMBOLICA",
+  "clave": 2224060,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b5b"
+  },
+  "nombre": "INTRODUCCION A LA HISTORIA",
+  "clave": 2255100,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b89"
+  },
+  "nombre": "SOCIOLOGIA DE LOS MOVIMIENTOS SOCIALES",
+  "clave": 2293096,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c11"
+  },
+  "nombre": "GESTION TECNOLOGICA",
+  "clave": 2151050,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c13"
+  },
+  "nombre": "INNOVACION Y EMPRENDIMIENTO EN INGENIERIA BIOMEDICA",
+  "clave": 2151053,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c17"
+  },
+  "nombre": "PROGRAMAS DE INGENIERIA CLINICA",
+  "clave": 2151055,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c37"
+  },
+  "nombre": "HISTORIA DE AMERICA ANTIGUA",
+  "clave": 2255105,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c65"
+  },
+  "nombre": "ESTADO SOLIDO I",
+  "clave": 2111127,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c71"
+  },
+  "nombre": "COMUNICACIONES II",
+  "clave": 2151070,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c7f"
+  },
+  "nombre": "SISTEMAS CON MICROPROCESADORES II",
+  "clave": 2151081,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c8f"
+  },
+  "nombre": "PROYECTO TERMINAL I EN ELECTRONICA ANALOGICA",
+  "clave": 2151092,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c91"
+  },
+  "nombre": "PROYECTO TERMINAL II EN ELECTRONICA ANALOGICA",
+  "clave": 2151093,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03cd1"
+  },
+  "nombre": "CAMBIO CLIMATICO GLOBAL",
+  "clave": 2352015,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587b9a16cb1f8af03a83"
+  },
+  "nombre": "CALCULO INTEGRAL",
+  "clave": 2130039,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587c9a16cb1f8af03a9f"
+  },
+  "nombre": "TEMAS SELECTOS DE LA MATEMATICA CONTEMPORANEA I",
+  "clave": 2132037,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587e9a16cb1f8af03ae7"
+  },
+  "nombre": "PROYECTO DE INVESTIGACION I BASES DE DATOS",
+  "clave": 2151130,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b09"
+  },
+  "nombre": "DIRECCION Y ADMINISTRACION DE PERSONAL",
+  "clave": 2211089,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b11"
+  },
+  "nombre": "MARKETING I",
+  "clave": 2211093,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a3587f9a16cb1f8af03b29"
+  },
+  "nombre": "HERRAMIENTAS CUALITATIVAS PARA EL ANALISIS DE DECISIONES",
+  "clave": 2212009,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b39"
+  },
+  "nombre": "GESTION DE PROYECTOS",
+  "clave": 2212017,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358809a16cb1f8af03b4d"
+  },
+  "nombre": "MACROECONOMIA I",
+  "clave": 2241096,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358819a16cb1f8af03b75"
+  },
+  "nombre": "GEOGRAFIA DEL TURISMO",
+  "clave": 2293039,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b83"
+  },
+  "nombre": "TEMAS SELECTOS DE GEOGRAFIA IV",
+  "clave": 2293057,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358829a16cb1f8af03b8d"
+  },
+  "nombre": "DIDACTICA DE LA EDUCACION EN MATERIA SOCIAL",
+  "clave": 2294001,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03baf"
+  },
+  "nombre": "TALLER DE BIOMETRIA AGROPECUARIA I",
+  "clave": 2321064,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bb7"
+  },
+  "nombre": "INGENIERIA DE ALIMENTOS II",
+  "clave": 2331083,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358839a16cb1f8af03bb9"
+  },
+  "nombre": "INGENIERIA DE ALIMENTOS III",
+  "clave": 2331084,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358859a16cb1f8af03c15"
+  },
+  "nombre": "CONTROL DE SISTEMAS LINEALES",
+  "clave": 2151054,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c41"
+  },
+  "nombre": "FILOSOFIA DE LA HISTORIA",
+  "clave": 2255316,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358869a16cb1f8af03c53"
+  },
+  "nombre": "GENOMICA",
+  "clave": 2342036,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c5b"
+  },
+  "nombre": "FISICA MODERNA I",
+  "clave": 2111046,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c67"
+  },
+  "nombre": "ESTADO SOLIDO II",
+  "clave": 2111130,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358879a16cb1f8af03c6d"
+  },
+  "nombre": "CIRCUITOS ELECTRICOS III",
+  "clave": 2151068,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c9b"
+  },
+  "nombre": "PROYECTO TERMINAL I EN TELECOMUNICACIONES",
+  "clave": 2151098,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03c9d"
+  },
+  "nombre": "PROYECTO TERMINAL II EN TELECOMUNICACIONES",
+  "clave": 2151099,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358889a16cb1f8af03ca9"
+  },
+  "nombre": "ECONOMIA POLITICA II",
+  "clave": 2241092,
+  "tipo": "Obligatoria"
+},{
+  "_id": {
+    "$oid": "63a358899a16cb1f8af03ccf"
+  },
+  "nombre": "METODOS INSTRUMENTALES",
+  "clave": 2342003,
+  "tipo": "Obligatoria"
+}]

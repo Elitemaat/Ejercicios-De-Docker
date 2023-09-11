@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "645ddee1162e23456f2e0254"
+  },
+  "email": "encuestasuami@outlook.com",
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "matricula": 696962,
+  "password": "$2a$10$iSpyhcO1N9n4F73E5aUBBeE8Ou4S/s.19EW0E1NNSXoH59QNbIZXm",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiOWQ1ZTU0NzZlNDVjMWNjYWMyYWMwODBlNDI1Y2Q5Nzl8MDA4Zjg1MzZhZDU4Yzk0YmNhODJlMmE0NWY2MjQ1ZWI0NmNiZDY3Nzc5MTgwYzU3NzcxNmEzNjI5ODI3M2QzZCIsImlhdCI6MTY4Mzg3MzcyMSwiZXhwIjoxNjgzODc0NjIxfQ.UCflpQ7uFnNAo5XOxB4kweqeBungUTbhkFNDZxMp1n0"
+},{
+  "_id": {
+    "$oid": "645dedad162e23456f50feb9"
+  },
+  "email": "_@o_.com",
+  "carrera": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "matricula": 696965,
+  "password": "$2a$10$Ncvxh3ld1gJw7fwBv/kXWe6vG2CqBh8Wfb.oqEziDTFk2KuGMwRYO",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiNTU5MTA4Y2E3OTQ2YTI4ZGI1MTA1Mzc1Y2RhMzhmODN8N2FjZTBiNjc0NDhkMzVhNjRlOGJiZDllMGVkMWY2NGIiLCJpYXQiOjE2ODM4NzcyOTMsImV4cCI6MTY4Mzg3ODE5M30.raVxQcNLaTx5OrSwYuQfW2gWrbhZmjsGAhrj3LbOAu4"
+}]

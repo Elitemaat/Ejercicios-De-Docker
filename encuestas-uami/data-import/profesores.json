@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6414aad367a72f2b671437ee"
+  },
+  "claveEmpleado": 666,
+  "nombre": "JOSE LUIS QUIROZ"
+},{
+  "_id": {
+    "$oid": "6414ab0767a72f2b671437ef"
+  },
+  "claveEmpleado": 123,
+  "nombre": "PROFE VALDOTE"
+},{
+  "_id": {
+    "$oid": "6414afaa67a72f2b671437f1"
+  },
+  "claveEmpleado": 245,
+  "nombre": "PROFE GUSTAVO"
+},{
+  "_id": {
+    "$oid": "6414b27767a72f2b671437f2"
+  },
+  "claveEmpleado": 323,
+  "nombre": "PROFE SEBASTIAN"
+},{
+  "_id": {
+    "$oid": "644633f62d2a1c82a6bfe023"
+  },
+  "claveEmpleado": 30,
+  "nombre": "Profe Jorge Oni"
+},{
+  "_id": {
+    "$oid": "64683c4641c4c1f251f1387b"
+  },
+  "claveEmpleado": 1905,
+  "nombre": "Dr en Pruebas Desentis editando"
+}]

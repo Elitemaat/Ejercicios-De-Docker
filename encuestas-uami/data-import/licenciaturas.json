@@ -1,0 +1,1438 @@
+[{
+  "_id": {
+    "$oid": "63a363efc059ccec848dd3cb"
+  },
+  "nombre": "Licenciatura en Ingenieria Biomedica",
+  "clave": 22,
+  "cursos": [
+    {
+      "$oid": "63a3587a9a16cb1f8af03a5d"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a5f"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a61"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a63"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a65"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a67"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a6b"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bbf"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bc1"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bc3"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a73"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bc5"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bc7"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bc9"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bcb"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a7f"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a81"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a83"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a85"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bcd"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bcf"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a89"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a8b"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a8d"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a8f"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bd1"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bd3"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a9d"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa5"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa7"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa9"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aaf"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bd5"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bd7"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bd9"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bdb"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bdd"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bdf"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03be1"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03be3"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03be5"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03be7"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03be9"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03beb"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bed"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bef"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bf1"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bf3"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bf5"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bf7"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03ab1"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bf9"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bfb"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bfd"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ab3"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03bff"
+    },
+    {
+      "$oid": "63a358849a16cb1f8af03c01"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c03"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c05"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c07"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c09"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c0b"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c0d"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c0f"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c11"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ab5"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c13"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c15"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c17"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c19"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c1b"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c1d"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c1f"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c21"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c23"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c25"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c27"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ac3"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ac7"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03acf"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ad9"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03add"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03adf"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03ae3"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03aff"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03b01"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b0b"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b0d"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b11"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b13"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b19"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b21"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b39"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c29"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c2b"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c2d"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b4f"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b51"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b53"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b55"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b57"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b59"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b5b"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c2f"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c31"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c33"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c35"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c37"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c39"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c3b"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c3d"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b5d"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c3f"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b63"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c41"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b69"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c43"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c45"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b6d"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b6f"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c47"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b71"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b73"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b7f"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b81"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b83"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b85"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c49"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c4b"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c4d"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c4f"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c51"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c53"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c55"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c57"
+    }
+  ],
+  "encuestas": []
+},{
+  "_id": {
+    "$oid": "63a28bd05ee77efc278e428b"
+  },
+  "nombre": "Licenciatura en Computación",
+  "clave": 30,
+  "cursos": [
+    {
+      "$oid": "63a3587a9a16cb1f8af03a57"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a59"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a5b"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a5d"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a5f"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a61"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a63"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a65"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a67"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a69"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a6b"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a6d"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a6f"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a71"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a73"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a75"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a77"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a79"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a7b"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a7d"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a7f"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a81"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a83"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a85"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a87"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a89"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a8b"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a8d"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a8f"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a91"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a93"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a95"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a97"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a99"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a9b"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a9d"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a9f"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa1"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa3"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa5"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa7"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa9"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aab"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aad"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aaf"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03ab1"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ab3"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ab5"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ab7"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ab9"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03abb"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03abd"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03abf"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ac1"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ac3"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ac5"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ac7"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ac9"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03acb"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03acd"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03acf"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ad1"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ad3"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ad5"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ad7"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ad9"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03adb"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03add"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03adf"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03ae1"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03ae3"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03ae5"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03ae7"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03ae9"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03aeb"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03aed"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03aef"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03af1"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03af3"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03af5"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03af7"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03af9"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03afb"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03afd"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03aff"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03b01"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03b03"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b05"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b07"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b09"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b0b"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b0d"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b0f"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b11"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b13"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b15"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b17"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b19"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b1b"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b1d"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b1f"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b21"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b23"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b25"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b27"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b29"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b2b"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b2d"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b2f"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b31"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b33"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b35"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b37"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b39"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b3b"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b3d"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b3f"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b41"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b43"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b45"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b47"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b49"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b4b"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b4d"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b4f"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b51"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b53"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b55"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b57"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b59"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b5b"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b5d"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b5f"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b61"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b63"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b65"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b67"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b69"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b6b"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b6d"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b6f"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b71"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b73"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b75"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b77"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b79"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b7b"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b7d"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b7f"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b81"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b83"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b85"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b87"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b89"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b8b"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b8d"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b8f"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b91"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b93"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b95"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b97"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b99"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b9b"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b9d"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b9f"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03ba1"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03ba3"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03ba5"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03ba7"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03ba9"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bab"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bad"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03baf"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bb1"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bb3"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bb5"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bb7"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bb9"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bbb"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bbd"
+    }
+  ],
+  "encuestas": []
+},{
+  "_id": {
+    "$oid": "63a36382c059ccec848dd3ca"
+  },
+  "nombre": "Licenciatura en Ingenieria Electronica",
+  "clave": 27,
+  "cursos": [
+    {
+      "$oid": "63a3587a9a16cb1f8af03a57"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a59"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a5b"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a5d"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a5f"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a61"
+    },
+    {
+      "$oid": "63a3587a9a16cb1f8af03a63"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a65"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a67"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a69"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c59"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c5b"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c5d"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c5f"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c61"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c63"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bbf"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c65"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c67"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c69"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a7f"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a81"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a83"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a85"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bcf"
+    },
+    {
+      "$oid": "63a3587b9a16cb1f8af03a89"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a8b"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a8d"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a8f"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03a93"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa3"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa5"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa7"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aa9"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aab"
+    },
+    {
+      "$oid": "63a3587c9a16cb1f8af03aaf"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c07"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c09"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c15"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ab7"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c6b"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c6d"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c6f"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c71"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c73"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c75"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c77"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ab9"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c79"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c7b"
+    },
+    {
+      "$oid": "63a358879a16cb1f8af03c7d"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03abb"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c7f"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c81"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c83"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c85"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c87"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c89"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c8b"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c8d"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c8f"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c91"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c93"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c95"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c97"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c99"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c9b"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c9d"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03c9f"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03abf"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ac1"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ac3"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ac5"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ac7"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03acb"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03acd"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ad1"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ad3"
+    },
+    {
+      "$oid": "63a3587d9a16cb1f8af03ad7"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03ae5"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03ca1"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03ca3"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03ca5"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03af7"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03afb"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03aff"
+    },
+    {
+      "$oid": "63a3587e9a16cb1f8af03b03"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b05"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b07"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b09"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b0b"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b21"
+    },
+    {
+      "$oid": "63a3587f9a16cb1f8af03b23"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03ca7"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b45"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b47"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b4b"
+    },
+    {
+      "$oid": "63a358859a16cb1f8af03c29"
+    },
+    {
+      "$oid": "63a358889a16cb1f8af03ca9"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cab"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b4d"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cad"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b4f"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b51"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b53"
+    },
+    {
+      "$oid": "63a358809a16cb1f8af03b55"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b57"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b59"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b5b"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c2f"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c33"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c35"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c37"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c39"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03caf"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b5d"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cb1"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b61"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b63"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b65"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cb3"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b67"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cb5"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b69"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cb7"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cb9"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cbb"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cbd"
+    },
+    {
+      "$oid": "63a358869a16cb1f8af03c45"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cbf"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cc1"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b6d"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b6f"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b71"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b7f"
+    },
+    {
+      "$oid": "63a358819a16cb1f8af03b81"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b83"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b85"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cc3"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b87"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cc5"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b89"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b8f"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b91"
+    },
+    {
+      "$oid": "63a358829a16cb1f8af03b93"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cc7"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cc9"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03ccb"
+    },
+    {
+      "$oid": "63a358839a16cb1f8af03bb3"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03ccd"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03ccf"
+    },
+    {
+      "$oid": "63a358899a16cb1f8af03cd1"
+    },
+    {
+      "$oid": "63a3588a9a16cb1f8af03cd3"
+    },
+    {
+      "$oid": "63a3588a9a16cb1f8af03cd5"
+    },
+    {
+      "$oid": "63a3588a9a16cb1f8af03cd7"
+    }
+  ],
+  "encuestas": []
+}]

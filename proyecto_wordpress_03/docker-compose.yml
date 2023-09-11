@@ -1,0 +1,31 @@
+services:
+
+  wordpress:
+    image: wordpress
+    restart: always
+    ports:
+      - 9090:80
+    environment:
+      WORDPRESS_DB_HOST: db-wp
+      WORDPRESS_DB_USER: elite
+      WORDPRESS_DB_PASSWORD: elite
+      WORDPRESS_DB_NAME: wp-db
+    depends_on:
+      - db-wp
+    ## volumenes (docker o named volumes) bind mounts tmpfs / npipe
+    volumes:
+      - ./datos/wp:/var/www/html
+
+  db-wp:
+    image: mysql
+    restart: always
+    environment:
+      MYSQL_DATABASE: wp-db
+      MYSQL_USER: elite
+      MYSQL_PASSWORD: elite
+      MYSQL_ROOT_PASSWORD: elite
+    volumes:
+      - db:/var/lib/mysql
+
+volumes:
+  db:

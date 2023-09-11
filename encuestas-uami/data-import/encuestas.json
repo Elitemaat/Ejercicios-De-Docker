@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "63c78713f02054450a31fb55"
+  },
+  "periodo": "23I",
+  "licenciatura": [
+    {
+      "$oid": "63a28bd05ee77efc278e428b"
+    }
+  ],
+  "maxMaterias": 5,
+  "activo": false,
+  "encuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "64017e377defd43ceb3fa149"
+  },
+  "periodo": "28O",
+  "licenciatura": [
+    {
+      "$oid": "63a363efc059ccec848dd3cb"
+    }
+  ],
+  "maxMaterias": 50,
+  "activo": false,
+  "encuestasResueltas": []
+},{
+  "_id": {
+    "$oid": "6442b56a443838b3d44c6ce1"
+  },
+  "periodo": "22P",
+  "licenciatura": [
+    {
+      "$oid": "63a28bd05ee77efc278e428b"
+    },
+    {
+      "$oid": "63a36382c059ccec848dd3ca"
+    },
+    {
+      "$oid": "63a363efc059ccec848dd3cb"
+    },
+    {
+      "$oid": "641bf87fb05d5f941c77f101"
+    },
+    {
+      "$oid": "642b1bc376c61c54444bb517"
+    },
+    {
+      "$oid": "64376703d89d42a931207b61"
+    }
+  ],
+  "maxMaterias": 4,
+  "activo": false,
+  "encuestasResueltas": [
+    {
+      "$oid": "6442b65c443838b3d44c6d2e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "644b4af84d76c3b06460d962"
+  },
+  "periodo": "23P",
+  "licenciatura": [
+    {
+      "$oid": "63a363efc059ccec848dd3cb"
+    },
+    {
+      "$oid": "63a28bd05ee77efc278e428b"
+    },
+    {
+      "$oid": "63a36382c059ccec848dd3ca"
+    },
+    {
+      "$oid": "641bf87fb05d5f941c77f101"
+    },
+    {
+      "$oid": "642b1bc376c61c54444bb517"
+    },
+    {
+      "$oid": "64376703d89d42a931207b61"
+    }
+  ],
+  "maxMaterias": 4,
+  "activo": false,
+  "encuestasResueltas": [
+    {
+      "$oid": "644b4b4e4d76c3b06460d991"
+    },
+    {
+      "$oid": "644b4c3c4d76c3b06460d9ca"
+    },
+    {
+      "$oid": "644b5853c363ee6e5830923c"
+    },
+    {
+      "$oid": "644c0f873017b69797a57b00"
+    },
+    {
+      "$oid": "64500e4ebd6123bc98382814"
+    },
+    {
+      "$oid": "64500e7cbd6123bc98382832"
+    },
+    {
+      "$oid": "64500ec0bd6123bc98382865"
+    },
+    {
+      "$oid": "64554a41dcae800bd859e5e8"
+    },
+    {
+      "$oid": "64554d0cdcae800bd859e680"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6467bc18ebeeefc7390d3734"
+  },
+  "periodo": "23O",
+  "licenciatura": [
+    {
+      "$oid": "63a28bd05ee77efc278e428b"
+    },
+    {
+      "$oid": "63a36382c059ccec848dd3ca"
+    },
+    {
+      "$oid": "63a363efc059ccec848dd3cb"
+    },
+    {
+      "$oid": "641bf87fb05d5f941c77f101"
+    },
+    {
+      "$oid": "642b1bc376c61c54444bb517"
+    },
+    {
+      "$oid": "64376703d89d42a931207b61"
+    }
+  ],
+  "maxMaterias": 4,
+  "activo": false,
+  "encuestasResueltas": [
+    {
+      "$oid": "6467bc74ebeeefc7390d3762"
+    },
+    {
+      "$oid": "64683aa841c4c1f251f13813"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64701dd41d57c87f6cca7cd3"
+  },
+  "periodo": "24I",
+  "licenciatura": [
+    {
+      "$oid": "63a28bd05ee77efc278e428b"
+    },
+    {
+      "$oid": "63a36382c059ccec848dd3ca"
+    },
+    {
+      "$oid": "63a363efc059ccec848dd3cb"
+    },
+    {
+      "$oid": "641bf87fb05d5f941c77f101"
+    },
+    {
+      "$oid": "642b1bc376c61c54444bb517"
+    },
+    {
+      "$oid": "64376703d89d42a931207b61"
+    },
+    {
+      "$oid": "64683d5841c4c1f251f13888"
+    }
+  ],
+  "maxMaterias": 6,
+  "activo": true,
+  "encuestasResueltas": []
+}]
